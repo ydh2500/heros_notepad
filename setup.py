@@ -4,11 +4,11 @@ setup(
     name="heros_notepad",
     version="0.1.0",
     author="Yoon Doohyun",
-    author_email="dhyoon@withtech.co.kr",
+    author_email="ydh2500@gmail.com",
     description="A notepad for HEROS",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="http://192.168.0.203:7990/projects/HERO/repos/py_notepad/browse",  # 패키지의 홈페이지 URL
+    url="https://github.com/ydh2500/heros_notepad",  # 패키지의 홈페이지 URL
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
